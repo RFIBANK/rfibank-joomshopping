@@ -1,4 +1,4 @@
-## rfibank-joomshopoing  
+## rfibank-joomshopping  
 Данный модуль интеграции разработан для CMS Joomla и компонента JoomShopping. Перед установкой модуля у Вас должны быть установлены следующие версии CMS Joomla и компонента JoomShopping:  
 * Joomla 2.5.x + JoomShopping 3.x.x  
 * Joomla 3.x.x + JoomShopping 4.x.x  
